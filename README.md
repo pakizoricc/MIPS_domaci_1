@@ -1,2 +1,2 @@
 # MIPS_domaci_1
- Domaći zadatak 1
+Prikaz simulacije bliknanja diode pomoću mikrokontrolera. Izveštaj domaćeg zadatka možete pogledati u fajlu pod imenom Izveštaj domaćeg zadatka.pdf
